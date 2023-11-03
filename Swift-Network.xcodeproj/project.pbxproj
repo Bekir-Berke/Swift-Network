@@ -11,6 +11,7 @@
 		E1BC177B2AF40B2700386233 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BC177A2AF40B2700386233 /* ContentView.swift */; };
 		E1BC177D2AF40B2700386233 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1BC177C2AF40B2700386233 /* Assets.xcassets */; };
 		E1BC17802AF40B2800386233 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1BC177F2AF40B2800386233 /* Preview Assets.xcassets */; };
+		E1BC17872AF40C1300386233 /* GitHubUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BC17862AF40C1300386233 /* GitHubUser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E1BC177A2AF40B2700386233 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E1BC177C2AF40B2700386233 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1BC177F2AF40B2800386233 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E1BC17862AF40C1300386233 /* GitHubUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				E1BC177A2AF40B2700386233 /* ContentView.swift */,
 				E1BC177C2AF40B2700386233 /* Assets.xcassets */,
 				E1BC177E2AF40B2800386233 /* Preview Content */,
+				E1BC17862AF40C1300386233 /* GitHubUser.swift */,
 			);
 			path = "Swift-Network";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1BC17872AF40C1300386233 /* GitHubUser.swift in Sources */,
 				E1BC177B2AF40B2700386233 /* ContentView.swift in Sources */,
 				E1BC17792AF40B2700386233 /* Swift_NetworkApp.swift in Sources */,
 			);
